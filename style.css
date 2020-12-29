@@ -101,11 +101,10 @@ a{
 	}
 	.borda2{
 		width: 360px;
-		height: 850px;
+		height: 870px;
 	}
 	#diminuir{
-		width: 360px;
-		height: 70px
+		display:none;
 	}
 	a:visited{
 	color: white;

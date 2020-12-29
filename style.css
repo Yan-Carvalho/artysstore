@@ -107,6 +107,14 @@ a{
 		width: 360px;
 		height: 1000px;
 	}
+	#borda3{
+		display: block;
+		width: 360px;
+		height: 480px;
+	#borda4{
+		width: 360px;
+		height: 1000px;
+	}
 	#diminuir{
 		display:none;
 	}

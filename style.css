@@ -93,7 +93,7 @@ a{
 #av{display: block; margin-bottom: 10px;}
 @media screen and (max-width: 500px){
 	.header{
-		width: 380px;
+		width: 390px;
 	}
 	.b1{
 		width: 100px;

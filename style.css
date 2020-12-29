@@ -90,7 +90,7 @@ a{
 #color{
 	color: #298A08;
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
 	.b1{
 		width: 100px;
 	}

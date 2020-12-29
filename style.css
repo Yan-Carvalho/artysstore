@@ -112,11 +112,8 @@ a{
 		width: 370px;
 		height: 480px;
 	#borda4{
-		width: 370px;
+		width: 25x;
 		height: 1000px;
-	}
-	#diminuir{
-		display:none;
 	}
 	a:visited{
 	color: white;

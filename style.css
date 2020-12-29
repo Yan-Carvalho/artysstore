@@ -93,26 +93,26 @@ a{
 #av{display: block; margin-bottom: 10px;}
 @media screen and (max-width: 500px){
 	.header{
-		width: 100%;
+		width: 380px;
 	}
 	.b1{
 		width: 100px;
 	}
 	#borda1{
 		display: block;
-		width: 360px;
+		width: 380px;
 		height: 480px;
 	}
 	.borda2{
-		width: 360px;
+		width: 380px;
 		height: 1000px;
 	}
 	#borda3{
 		display: block;
-		width: 360px;
+		width: 380px;
 		height: 480px;
 	#borda4{
-		width: 360px;
+		width: 380px;
 		height: 1000px;
 	}
 	#diminuir{

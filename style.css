@@ -90,6 +90,7 @@ a{
 #color{
 	color: #298A08;
 }
+#av{display: block; margin-bottom: 10px;}
 @media screen and (max-width: 500px){
 	.b1{
 		width: 100px;
@@ -101,7 +102,7 @@ a{
 	}
 	.borda2{
 		width: 360px;
-		height: 870px;
+		height: 900px;
 	}
 	#diminuir{
 		display:none;

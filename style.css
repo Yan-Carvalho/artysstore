@@ -90,21 +90,21 @@ a{
 #color{
 	color: #298A08;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 400px){
 	.b1{
 		width: 100px;
 	}
 	#borda1{
 		display: block;
-		width: 400px;
-		height: 400px;
+		width: 360px;
+		height: 430px;
 	}
 	.borda2{
-		width: 400px;
+		width: 360px;
 		height: 850px;
 	}
 	#diminuir{
-		width: 400px;
+		width: 360px;
 		height: 70px
 	}
 }

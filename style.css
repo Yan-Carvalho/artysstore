@@ -111,15 +111,9 @@ a{
 		display: block;
 		width: 370px;
 		height: 480px;
-	#borda4{
-		width: 370px;
-		height: 1000px;
-	}
-	a:visited{
-		color: white;
 	}
 	a{
-		color:white;
+		color: white;
 		text-decoration: none;
 	}
 	li{

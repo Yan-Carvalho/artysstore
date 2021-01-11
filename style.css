@@ -35,12 +35,13 @@ li{
 	letter-spacing: 1.2px;
 }
 .borda2{
+	position:absolute;
 	color: white;
 	font-size: 18px;
 	display: inline-block;
 	border: 2px solid black;
 	overflow: auto;
-	height: 810x;
+	height: 1150x;
 	width: 1055px;
 	padding: 10px;
 	margin: 10px;

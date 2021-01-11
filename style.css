@@ -35,7 +35,6 @@ li{
 	letter-spacing: 1.2px;
 }
 .borda2{
-	position:absolute;
 	color: white;
 	font-size: 18px;
 	display: inline-block;
@@ -93,6 +92,9 @@ a{
 }
 #av{display: block; margin-bottom: 10px;}
 @media screen and (max-width: 500px){
+	video{
+		width: 300px;
+	}
 	.header{
 		width: 390px;
 	}

@@ -92,34 +92,8 @@ a{
 	color: #298A08;
 }
 #av{display: block; margin-bottom: 10px;}
-.carousel {
-	text-align: center;
-	margin:0;
-	padding: 0;
-	background-color: pink ;
-  }
- .carousel, .slide{
-	transform: scale(0.6);
-	transition: 0.3s;
- } 
- .carousel, .slide.slicky-center{
-	transform: scale(1);
- } 
- .slide{
-	 border: 2px solid white;
-	 border-radius: 50%;
-	 display: inline-block;
-	 margin:0;
-	 padding: 0;
-	 width: 250px;
- }
+
 @media screen and (max-width: 500px){
-	.carousel{
-		width: 100%;
-	}
-	.slide{
-		width: 110px;
-	}
 	video{
 		width: 350px;
 	}
